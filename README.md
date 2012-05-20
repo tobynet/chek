@@ -1,6 +1,6 @@
 # Chek
 
-TODO: Write a gem description
+You can gesture **require** or **not require** in ruby script.
 
 ## Installation
 
@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    require 'chek'
+    
+    ☑ 'pathname'        # I wanna use pathname :)
+    ☐ 'fileutils'       # I don't wanna use fileutils now :p
+
+This means like below codes.
+
+    require 'pathname'      # I wanna use pathname :)
+    require 'fileutils'     # I don't wanna use fileutils now :p
 
 ## Contributing
 

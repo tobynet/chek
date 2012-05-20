@@ -1,5 +1,11 @@
+# -*- coding: utf-8 -*-
 require "chek/version"
 
-module Chek
-  # Your code goes here...
+module Kernel
+  def ☑ path
+    require path
+  end
+
+  def ☐ path
+  end
 end
