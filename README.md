@@ -18,20 +18,24 @@ Or install it yourself as:
 
 ## Usage
 
-    # -*- coding: utf-8 -*-
-    require 'chek'
-    
-    ☑ 'pathname'        # I wanna use it :)
-    ☑ 'mechanize'       # I wanna use it too
-    ☐ 'open-uri'        # I don't wanna use it now :p
-    ☐ 'fileutils'       # I don't wanna use it now tooo
+```ruby
+# -*- coding: utf-8 -*-
+require 'chek'
+
+☑ 'pathname'        # I wanna use it :)
+☑ 'mechanize'       # I wanna use it too
+☐ 'open-uri'        # I don't wanna use it now :p
+☐ 'fileutils'       # I don't wanna use it now tooo
+```
 
 This means like below codes.
 
-    require 'pathname'        # I wanna use it :)
-    require 'mechanize'       # I wanna use it too
-    # require 'open-uri'      # I don't wanna use it now :p
-    # require 'fileutils'     # I don't wanna use it now tooo
+```ruby
+require 'pathname'        # I wanna use it :)
+require 'mechanize'       # I wanna use it too
+# require 'open-uri'      # I don't wanna use it now :p
+# require 'fileutils'     # I don't wanna use it now tooo
+```
 
 ## Contributing
 
