@@ -1,6 +1,7 @@
-# Chek
+# Chek [![Build Status](https://secure.travis-ci.org/toooooooby/chek.png?branch=master)](http://travis-ci.org/toooooooby/chek)
 
 You can gesture **require** or **not require** in ruby script.
+
 
 ## Installation
 
