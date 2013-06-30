@@ -6,5 +6,5 @@ gemspec
 # development dependencies for gem
 group :development, :test do
   gem "rake"
-  gem "rspec", "~> 2.10.0"
+  gem "rspec", "~> 2.10"
 end
