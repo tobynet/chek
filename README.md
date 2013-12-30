@@ -1,4 +1,7 @@
-# Chek [![Build Status](https://secure.travis-ci.org/toooooooby/chek.png?branch=master)](http://travis-ci.org/toooooooby/chek)
+# Chek
+
+[![Gem Version](https://badge.fury.io/rb/chek.png)](http://badge.fury.io/rb/chek) [![Build Status](https://travis-ci.org/toooooooby/chek.png?branch=master)](https://travis-ci.org/toooooooby/chek) [![Coverage Status](https://coveralls.io/repos/toooooooby/chek/badge.png?branch=master)](https://coveralls.io/r/toooooooby/chek) [![Code Climate](https://codeclimate.com/github/toooooooby/chek.png)](https://codeclimate.com/github/toooooooby/chek) [![Dependency Status](https://gemnasium.com/toooooooby/chek.png)](https://gemnasium.com/toooooooby/chek)
+
 
 You can gesture **require** or **not require** in ruby script.
 
