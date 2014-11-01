@@ -2,7 +2,7 @@
 require File.expand_path('../lib/chek/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.authors       = ["toooooooby"]
+  gem.authors       = ["tobynet"]
   gem.email         = ["toby.net.info.mail+git@gmail.com"]
   gem.description   = %q{You can gesture require or not in ruby script. ☑ or ☐.}
   gem.summary       = %q{You can gesture require or not in ruby script.}

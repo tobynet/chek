@@ -1,7 +1,10 @@
 # Chek
 
-[![Gem Version](https://badge.fury.io/rb/chek.png)](http://badge.fury.io/rb/chek) [![Build Status](https://travis-ci.org/toooooooby/chek.png?branch=master)](https://travis-ci.org/toooooooby/chek) [![Coverage Status](https://coveralls.io/repos/toooooooby/chek/badge.png?branch=master)](https://coveralls.io/r/toooooooby/chek) [![Code Climate](https://codeclimate.com/github/toooooooby/chek.png)](https://codeclimate.com/github/toooooooby/chek) [![Dependency Status](https://gemnasium.com/toooooooby/chek.png)](https://gemnasium.com/toooooooby/chek)
-
+[![Gem Version](https://badge.fury.io/rb/chek.png)](http://badge.fury.io/rb/chek)
+[![Build Status](https://travis-ci.org/tobynet/chek.svg?branch=master)](https://travis-ci.org/tobynet/chek)
+[![Dependency Status](https://gemnasium.com/tobynet/chek.png)](https://gemnasium.com/tobynet/chek)
+[![Code Climate](https://codeclimate.com/github/tobynet/chek.png)](https://codeclimate.com/github/tobynet/chek)
+[![Coverage Status](https://coveralls.io/repos/tobynet/chek/badge.png?branch=master)](https://coveralls.io/r/tobynet/chek)
 
 You can gesture **require** or **not require** in ruby script.
 
