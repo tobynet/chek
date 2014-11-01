@@ -17,6 +17,6 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/#{gem.authors.first}/#{gem.name}/"
 
   gem.add_development_dependency("rake")
-  gem.add_development_dependency("rspec", '~>2.14')
+  gem.add_development_dependency("rspec", '~>3.1')
   gem.add_development_dependency("coveralls")
 end
